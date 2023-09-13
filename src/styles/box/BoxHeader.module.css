@@ -1,0 +1,26 @@
+.boxHeader {
+    height: 50px;
+
+    padding: 0px 28px;
+
+    border-width: 0 0 2px 0;
+    border-color: rgb(200, 200, 200);
+    border-style: solid;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.circle {
+    height: 11px;
+    width: 11px;
+
+    margin-right: 2px;
+    border-radius: 100%;
+    display: inline-block;
+}
+
+.navLink {
+    color: #171717;
+}
