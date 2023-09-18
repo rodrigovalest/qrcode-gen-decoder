@@ -1,4 +1,4 @@
-.boxHeader {
+header {
     height: 50px;
 
     padding: 0px 28px;
@@ -23,4 +23,9 @@
 
 .navLink {
     color: #171717;
+    text-decoration: underline;
+}
+
+.navLink:hover {
+    cursor: pointer;
 }

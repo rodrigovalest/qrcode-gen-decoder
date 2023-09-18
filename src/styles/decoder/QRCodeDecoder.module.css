@@ -1,0 +1,25 @@
+input[type="file"] {
+    display: none;
+}
+
+.fileInput {
+    display: block;
+    cursor: pointer;
+    text-align: center;
+
+    width: 200px;
+    margin-top: 20px;
+    padding: 10px;
+
+    background-color: #EDECED;
+    font-weight: 600;
+}
+
+.fileInput:hover {
+    background-color: #d6d6d6;
+    border-radius: 5px;
+}
+
+.qrValue {
+    padding-top: 20px;
+}
